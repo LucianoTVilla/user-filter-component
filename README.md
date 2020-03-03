@@ -5,7 +5,7 @@ Este pequeÃ±o proyecto fue realizado con el objetivo de comprender la utilizaciÃ
 
 -'Component Lifecycle' -> 'Mounting'
 
--'Stat' and setState'
+-'State and setState'
 
 -'React context'
 
